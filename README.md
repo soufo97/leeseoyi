@@ -1,5 +1,5 @@
 # Leeseoyi의 깃허브 입니다 👏🏻
-✍🏻 Vlog
+- ✍🏻 Vlog
 https://velog.io/@soufo
-💌 Email
+- 💌 Email
 lsy00097@gamil.com
